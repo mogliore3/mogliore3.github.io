@@ -1,6 +1,6 @@
-## Welcome to GitHub Pages
-
-You can use the [editor on GitHub](https://github.com/mogliore3/mogliore3.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+theme: Jekyll-theme-cayman
+title: Welcome to the Mogliore3’s homepage!
+Description: Feel free to bookmark this to keep an eye on my project updates
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
